@@ -1,6 +1,6 @@
 {
-  "name": "execut/yii2-widget-bootstraptreeview",
-  "version": "1.1.2",
+  "name": "acyuta/yii2-widget-bootstraptreeview",
+  "version": "1.1.3",
   "description": "Bootstrap Tree View widget wrapper for yii2",
   "keywords": ["yii2", "extension", "tree", "input", "form", "bootstrap", "jquery", "plugin"],
   "homepage": "https://github.com/execut/yii2-widget-bootstraptreeview",
@@ -15,7 +15,7 @@
   "require": {
     "execut/yii2-base": "*",
     "yiisoft/yii2-jui": "@dev",
-    "bower-asset/bootstrap-treeview": "@dev"
+    "bower-asset/bootstrap-treeview-ex": "@dev"
   },
   "autoload": {
     "psr-4": {
